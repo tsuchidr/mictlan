@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalDependencies">
+    <plugin id="IdeaVIM" />
+    <plugin id="Pythonid" />
+    <plugin id="dev.meanmail.plugin.nginx-intellij-plugin" />
+    <plugin id="intellij.jupyter" />
+    <plugin id="org.jetbrains.plugins.go" />
+  </component>
+</project>
